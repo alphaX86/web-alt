@@ -1,10 +1,10 @@
 const userData = {
   githubUsername: "alphaX86",
   name: "Aadhitya A",
-  designation: "Student and Developer",
-  avatarUrl: "https://pbs.twimg.com/profile_images/1559373736368713728/_8O7d52T_400x400.jpg",
+  designation: "Student",
+  avatarUrl: "https://pbs.twimg.com/profile_images/1609947917338705920/s5-7mWHq_400x400.jpg",
   email: "aadhitya864@gmail.com",
-  phone: "Easter egg! Find the URL ;)",
+  phone: "Replace with '/suspense' at end of URL",
   address: "Chennai, India.",
   projects: [
     {
@@ -75,19 +75,19 @@ const userData = {
     {
       title: "B.Tech IT",
       company: "Anna University, Chennai",
-      year: "Jul 2023 (Expected)",
+      year: "2023(*)",
       companyLink: "https://www.annauniv.edu",
-      desc: "Major in Information Technology with a CGPA of 7.0.",
+      desc: "Major in Information Technology with current CGPA of 9.62",
     },
   ],
   resumeUrl:
     "https://drive.google.com/file/d/15icU3XDu5I-c3k-H5YKBNBISLcz5EphN/view?usp=sharing",
   socialLinks: {
-    instagram: "",
+    instagram: "N/A",
     twitter: "https://twitter.com/KryoX64",
     linkedin: "https://linkedin.com/in/alphaX86",
     github: "https://github.com/alphaX86",
-    facebook: "",
+    facebook: "N/A",
     polywork: "https://poly.work/alphax",
   },
 };
