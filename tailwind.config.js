@@ -5,6 +5,9 @@ module.exports = {
   darkMode: "class", // or 'media' or 'class'
   theme: {
     extend: {
+      fontFamily: {
+        Quicksand: ['Quicksand', 'sans-serif'],
+      },
       transitionDuration: {
         0: "0ms",
         2000: "2000ms",
