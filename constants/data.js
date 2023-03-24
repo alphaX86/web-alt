@@ -3,14 +3,19 @@ const userData = {
   name: "Aadhitya A",
   designation: "Student",
   avatarUrl: "https://pbs.twimg.com/profile_images/1609947917338705920/s5-7mWHq_400x400.jpg",
-  email: "aadhitya864@gmail.com",
+  email: "kryox64@wearehackerone.com",
   phone: "Replace with '/suspense' at end of URL",
   address: "Chennai, India.",
   projects: [
     {
+      title: "arkLB",
+      link: "https://github.com/ark-7/arkLB",
+      imgUrl: "https://socialify.git.ci/ark-7/arkLB/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto",
+    },
+    {
       title: "HexE",
       link: "https://github.com/KiteVX/HexE",
-      imgUrl: "https://socialify.git.ci/KiteVX/HexE/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark",
+      imgUrl: "https://socialify.git.ci/KiteVX/HexE/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto",
     },
     {
       title: "Meshery",
@@ -20,22 +25,22 @@ const userData = {
     {
       title: "Non-Native Indian English Accent Classifier",
       link: "https://github.com/KiteVX/accent-vgg",
-      imgUrl: "https://socialify.git.ci/KiteVX/accent-vgg/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark",
+      imgUrl: "https://socialify.git.ci/KiteVX/accent-vgg/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto",
     },
     {
       title: "ETH-Health",
       link: "https://github.com/KiteVX/ether-health",
-      imgUrl: "https://socialify.git.ci/KiteVX/ether-health/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark",
+      imgUrl: "https://socialify.git.ci/KiteVX/ether-health/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto",
     },
     {
       title: "Stock-X",
       link: "https://github.com/Circle-1/Stock-X",
-      imgUrl: "https://socialify.git.ci/Circle-1/Stock-X/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark",
+      imgUrl: "https://socialify.git.ci/Circle-1/Stock-X/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto",
     },
     {
       title: "CodeIt",
       link: "https://github.com/KiteVX/codeit",
-      imgUrl: "https://socialify.git.ci/KiteVX/codeit/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark",
+      imgUrl: "https://socialify.git.ci/KiteVX/codeit/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto",
     },
   ],
   about: {
@@ -47,8 +52,8 @@ const userData = {
       `Now, I've been coding in React, Node.js, MySQL, Bootstrap, Tailwind, C, C++, Rust, Golang, Java, PHP and Python. Although I barely know the syntax (Psst, Stack overflow!), I consider myself as a Ninja developer ;).`,
       `Currently, I'm serving as a maintainer in Meshery while I'm trying to balance my life as well xD`,
     ],
-    currentProject: "HexE",
-    currentProjectUrl: "https://github.com/KiteVX/HexE",
+    currentProject: "arkLB",
+    currentProjectUrl: "https://github.com/ark-7/arkLB",
   },
   experience: [
     //{
@@ -61,9 +66,9 @@ const userData = {
     {
       title: "Maintainer",
       company: "Meshery",
-      year: "Dec 2022",
+      year: "Jan 2023",
       companyLink: "https://meshery.io",
-      desc: "Currently serving as a Maintainer (CLI) in Meshery project",
+      desc: "Currently serving as a Maintainer (CLI) [Unofficial] in Meshery project",
     },
     {
       title: "LFX Mentee",
@@ -77,7 +82,7 @@ const userData = {
       company: "Anna University, Chennai",
       year: "2023(*)",
       companyLink: "https://www.annauniv.edu",
-      desc: "Major in Information Technology with current CGPA of 9.62",
+      desc: "Major in Information Technology with current CGPA of 9.52",
     },
   ],
   resumeUrl:
