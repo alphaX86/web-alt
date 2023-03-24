@@ -49,8 +49,8 @@ const userData = {
     description: [
       `I'm student and a guy who loves to learn and develop some stuff. I'm a type who thinks that learning is a never-ending job. I'd pretty much listen to Music and play some games while I'm not intensely working.`,
       `To me, I got interest in computers while I was in Grade 1, which led me to learn about them a lot.`,
-      `Now, I've been coding in React, Node.js, MySQL, Bootstrap, Tailwind, C, C++, Rust, Golang, Java, PHP and Python. Although I barely know the syntax (Psst, Stack overflow!), I consider myself as a Ninja developer ;).`,
-      `Currently, I'm serving as a maintainer in Meshery while I'm trying to balance my life as well xD`,
+      `Now, I've been coding in Node.js, MySQL, Tailwind, React, C, C++, Golang, Java, PHP and Python. Although I barely know the syntax for some (Psst, Stack overflow! lol), I consider myself as a Ninja developer ;).`,
+      `Currently, I'm serving as a maintainer (CLI) in Meshery and often make small personal projects.`,
     ],
     currentProject: "arkLB",
     currentProjectUrl: "https://github.com/ark-7/arkLB",
