@@ -1,12 +1,17 @@
 const userData = {
   githubUsername: "alphaX86",
   name: "Aadhitya A",
-  designation: "Student",
+  designation: "Engineer",
   avatarUrl: "https://pbs.twimg.com/profile_images/1609947917338705920/s5-7mWHq_400x400.jpg",
   email: "kryox64@wearehackerone.com",
   phone: "Replace with '/suspense' at end of URL",
   address: "Chennai, India.",
   projects: [
+    {
+      title: "neueda-credit",
+      link: "https://github.com/alphaX86/neueda-credit",
+      imgUrl: "https://socialify.git.ci/alphaX86/neueda-credit/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Auto",
+    },
     {
       title: "arkLB",
       link: "https://github.com/ark-7/arkLB",
@@ -47,10 +52,10 @@ const userData = {
     title:
       "I'm a software developer that loves building products that impact people a lot",
     description: [
-      `I'm student and a guy who loves to learn and develop some stuff. I'm a type who thinks that learning is a never-ending job. I'd pretty much listen to Music and play some games while I'm not intensely working.`,
+      `I'm a developer who loves to learn and develop some stuff. I'm a type who thinks that learning is a never-ending job. I'd pretty much listen to Music and play some games while I'm not intensely working.`,
       `To me, I got interest in computers while I was in Grade 1, which led me to learn about them a lot.`,
-      `Now, I've been coding in Node.js, MySQL, Tailwind, React, C, C++, Golang, Java, PHP and Python. Although I barely know the syntax for some (Psst, Stack overflow! lol), I consider myself as a Ninja developer ;).`,
-      `Currently, I'm serving as a maintainer (CLI) in Meshery and often make small personal projects.`,
+      `Now, I've been coding in Node.js, MySQL, Tailwind, React, C, C++, Golang, Java, PHP and Python. Although I barely know the syntax for some (Psst, Stack overflow! lol).`,
+      `Currently, I'm working at Citi as Analyst and serving as a maintainer (CLI) in Meshery and often make small personal projects.`,
     ],
     currentProject: "arkLB",
     currentProjectUrl: "https://github.com/ark-7/arkLB",
@@ -64,11 +69,18 @@ const userData = {
     //  desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
     //},
     {
+      title: "Tech Analyst",
+      company: "Citigroup Inc.",
+      year: "Jul 2023 - Present",
+      companyLink: "https://citi.com",
+      desc: "",
+    },
+    {
       title: "Maintainer",
       company: "Meshery",
-      year: "Jan 2023",
+      year: "Jan 2023 - Present",
       companyLink: "https://meshery.io",
-      desc: "Currently serving as a Maintainer (CLI) [Unofficial] in Meshery project",
+      desc: "Currently serving as a Maintainer (CLI) in Meshery project",
     },
     {
       title: "LFX Mentee",
@@ -80,9 +92,9 @@ const userData = {
     {
       title: "B.Tech IT",
       company: "Anna University, Chennai",
-      year: "2023(*)",
+      year: "2019 - 2023",
       companyLink: "https://www.annauniv.edu",
-      desc: "Major in Information Technology with current CGPA of 9.52",
+      desc: "Major in Information Technology with CGPA of 9.54",
     },
   ],
   resumeUrl:
