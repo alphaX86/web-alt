@@ -105,9 +105,9 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Designed by Alpha (me) | Thanks to Brittany</div>
-        </a>
+        <div>
+          Designed with Gatsby | <a href="https://github.com/bchiang7/v4">Thanks to Brittany</a>
+        </div>
       </StyledCredit>
     </StyledFooter>
   );

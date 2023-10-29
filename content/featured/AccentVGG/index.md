@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Native English Accent Classifier'
-cover: './demo.png'
+cover: './accent-vgg.png'
 github: 'https://github.com/k173-x/accent-vgg'
 external: ''
 tech:

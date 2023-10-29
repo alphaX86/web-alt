@@ -60,9 +60,10 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open to
+        I’m not currently looking for any new opportunities, however my inbox is always open to
         messages. Whether you have a question or just want to say hi, I’ll try my best to get back
-        to you! If left unresponded, ping me at Discord (@kryox64) ;)
+        to you! You can also catch me up in{' '}
+        <a href="https://discord.com/channels/@me/700231801850953770">Discord</a> ;)
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

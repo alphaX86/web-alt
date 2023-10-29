@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Stock Predictor using CNN-LSTM'
-cover: './demo.png'
+cover: './Stock-X.png'
 github: 'https://github.com/Circle-1/Stock-X'
 external: 'https://huggingface.co/papers/2305.14378'
 tech:

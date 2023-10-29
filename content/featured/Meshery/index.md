@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Meshery'
-cover: './demo.png'
+cover: './meshery.png'
 github: 'https://github.com/meshery/meshery'
 external: 'https://meshery.io/'
 tech:
