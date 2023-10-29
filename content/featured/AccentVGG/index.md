@@ -3,7 +3,7 @@ date: '2'
 title: 'Native English Accent Classifier'
 cover: './accent-vgg.png'
 github: 'https://github.com/k173-x/accent-vgg'
-external: ''
+external: 'https://github.com/k173-x/accent-vgg'
 tech:
   - Tensorflow
   - Scikit-learn
